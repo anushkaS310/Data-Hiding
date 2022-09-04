@@ -1,0 +1,310 @@
+4.1.01 Image
+
+a : 5
+b : 8
+mod : 256
+bits per pixel (n) : 2
+block size : 256
+
+Block     | Zero Value | Peak Value | Peak Count | Overflow  
+1         | 238        | 254        | 1253.0     | 875       
+
+Total peak count : 1253.0 pixels
+Total overflow : 876 pixels
+Embedding Capacity : 2506.0 pixels
+Pure Capacity : 1630.0 pixels
+*********************************************************************************
+4.1.02 Image
+a : 71
+b : 37
+mod : 256
+bits per pixel (n) : 3
+block size : 128
+
+Block     | Zero Value | Peak Value | Peak Count | Overflow  
+1         | 207        | 254        | 1074.0     | 512       
+2         | 177        | 254        | 387.0      | 168       
+3         | 108        | 254        | 3040.0     | 492       
+4         | 108        | 254        | 532.0      | 533       
+
+Total peak count : 5033.0 pixels
+Total overflow : 1715 pixels
+Embedding Capacity : 15099.0 pixels
+Pure Capacity : 13384.0 pixels
+***************************************************************************************
+4.1.03 Image
+
+a : 71
+b : 37
+mod : 256
+bits per pixel (n) : 2
+block size : 128
+
+Block     | Zero Value | Peak Value | Peak Count | Overflow  
+1         | 21         | 250        | 2915.0     | 88        
+2         | 92         | 250        | 3766.0     | 92        
+3         | 135        | 250        | 1752.0     | 181       
+4         | 135        | 250        | 1615.0     | 351       
+
+Total peak count : 10048.0 pixels
+Total overflow : 722 pixels
+Embedding Capacity : 20096.0 pixels
+Pure Capacity : 19374.0 pixels
+********************************************************************************
+4.1.04 Image
+a : 71
+b : 37
+mod : 256
+bits per pixel (n) : 3
+block size : 128
+
+Block     | Zero Value | Peak Value | Peak Count | Overflow  
+1         | 207        | 254        | 1074.0     | 512       
+2         | 177        | 254        | 387.0      | 168       
+3         | 108        | 254        | 3040.0     | 492       
+4         | 108        | 254        | 532.0      | 533       
+
+Total peak count : 5033.0 pixels
+Total overflow : 1715 pixels
+Embedding Capacity : 15099.0 pixels
+Pure Capacity : 13384.0 pixels
+*********************************************************************************
+a : 71
+b : 37
+mod : 256
+bits per pixel (n) : 2
+block size : 128
+
+Block     | Zero Value | Peak Value | Peak Count | Overflow  
+1         | 16         | 250        | 466.0      | 336       
+2         | 122        | 254        | 280.0      | 52        
+3         | 87         | 250        | 611.0      | 317       
+4         | 137        | 254        | 236.0      | 124       
+
+Total peak count : 1593.0 pixels
+Total overflow : 839 pixels
+Embedding Capacity : 3186.0 pixels
+Pure Capacity : 2347.0 pixels
+*******************************************************************************
+4.1.05 Image
+a : 5
+b : 8
+mod : 256
+bits per pixel (n) : 3
+block size : 128
+
+Block     | Zero Value | Peak Value | Peak Count | Overflow  
+1         | 180        | 254        | 2338.0     | 58        
+2         | 180        | 254        | 2139.0     | 285       
+3         | 111        | 254        | 754.0      | 84        
+4         | 121        | 254        | 303.0      | 253       
+
+Total peak count : 5534.0 pixels
+Total overflow : 690 pixels
+Embedding Capacity : 16602.0 pixels
+Pure Capacity : 15912.0 pixels
+*************************************************************************************
+4.1.06 Image
+a : 5
+b : 8
+mod : 256
+bits per pixel (n) : 1
+block size : 64
+
+Block     | Zero Value | Peak Value | Peak Count | Overflow  
+1         | 49         | 254        | 479.0      | 3         
+2         | 59         | 254        | 208.0      | 3         
+3         | 243        | 254        | 161.0      | 8         
+4         | 94         | 254        | 724.0      | 1         
+5         | 140        | 254        | 184.0      | 11        
+6         | 185        | 254        | 152.0      | 10        
+7         | 109        | 254        | 146.0      | 72        
+8         | 4          | 254        | 132.0      | 72        
+9         | 155        | 254        | 89.0       | 38        
+10        | 150        | 254        | 106.0      | 3         
+11        | 238        | 254        | 128.0      | 28        
+12        | 225        | 254        | 122.0      | 98        
+13        | 7          | 255        | 69.0       | 0         
+14        | 233        | 254        | 116.0      | 2         
+15        | 243        | 254        | 185.0      | 1         
+16        | 253        | 254        | 132.0      | 17        
+
+Total peak count : 3133.0 pixels
+Total overflow : 503 pixels
+Embedding Capacity : 3133.0 pixels
+Pure Capacity : 2630.0 pixels
+*******************************************************************************
+4.2.01 Image
+a : 5
+b : 8
+mod : 256
+bits per pixel (n) : 2
+block size : 256
+
+Block     | Zero Value | Peak Value | Peak Count | Overflow  
+1         | 192        | 255        | 1483.0     | 590       
+2         | 41         | 255        | 2830.0     | 531       
+3         | 31         | 254        | 996.0      | 170       
+4         | 46         | 254        | 1922.0     | 192       
+
+Total peak count : 7231.0 pixels
+Total overflow : 1493 pixels
+Embedding Capacity : 14462.0 pixels
+Pure Capacity : 12969.0 pixels
+*****************************************************************************
+4.2.03 Image
+a : 71
+b : 37
+mod : 256
+bits per pixel (n) : 2
+block size : 128
+
+Block     | Zero Value | Peak Value | Peak Count | Overflow  
+1         | 247        | 254        | 149.0      | 202       
+2         | 130        | 254        | 204.0      | 201       
+3         | 57         | 254        | 162.0      | 197       
+4         | 47         | 252        | 147.0      | 199       
+5         | 199        | 254        | 160.0      | 276       
+6         | 88         | 254        | 410.0      | 59        
+7         | 230        | 254        | 404.0      | 41        
+8         | 152        | 254        | 184.0      | 291       
+9         | 131        | 254        | 183.0      | 123       
+10        | 251        | 254        | 283.0      | 93        
+11        | 137        | 254        | 247.0      | 124       
+12        | 55         | 254        | 340.0      | 519       
+13        | 105        | 254        | 271.0      | 70        
+14        | 223        | 254        | 253.0      | 90        
+15        | 180        | 254        | 297.0      | 124       
+16        | 109        | 254        | 290.0      | 261       
+
+Total peak count : 3984.0 pixels
+Total overflow : 3006 pixels
+Embedding Capacity : 7968.0 pixels
+Pure Capacity : 4962.0 pixels
+**********************************************************************************
+a : 5
+b : 8
+mod : 256
+bits per pixel (n) : 3
+block size : 256
+
+Block     | Zero Value | Peak Value | Peak Count | Overflow  
+1         | 145        | 254        | 617.0      | 1258      
+2         | 155        | 254        | 665.0      | 1361      
+3         | 101        | 254        | 724.0      | 1169      
+4         | 96         | 254        | 956.0      | 1175      
+
+Total peak count : 2962.0 pixels
+Total overflow : 4973 pixels
+Embedding Capacity : 8886.0 pixels
+Pure Capacity : 3913.0 pixels
+**********************************************************************
+a : 5
+b : 8
+mod : 256
+bits per pixel (n) : 3
+block size : 256
+
+Block     | Zero Value | Peak Value | Peak Count | Overflow  
+1         | 181        | 254        | 1301.0     | 1398      
+
+Total peak count : 1301.0 pixels
+Total overflow : 1399 pixels
+Embedding Capacity : 3903.0 pixels
+Pure Capacity : 2504.0 pixels
+****************************************************************************
+a : 5
+b : 8
+mod : 256
+bits per pixel (n) : 3
+block size : 128
+
+Block     | Zero Value | Peak Value | Peak Count | Overflow  
+1         | 186        | 254        | 501.0      | 347       
+2         | 241        | 254        | 451.0      | 515       
+3         | 86         | 255        | 407.0      | 190       
+4         | 81         | 255        | 300.0      | 346       
+
+Total peak count : 1659.0 pixels
+Total overflow : 1408 pixels
+Embedding Capacity : 4977.0 pixels
+Pure Capacity : 3569.0 pixels
+*******************************************************************************
+5.3.01 Image
+a : 71
+b : 37
+mod : 256
+bits per pixel (n) : 3
+block size : 256
+
+Block     | Zero Value | Peak Value | Peak Count | Overflow  
+1         | 96         | 254        | 1029.0     | 1960      
+2         | 37         | 254        | 4488.0     | 1619      
+3         | 232        | 254        | 942.0      | 2080      
+4         | 152        | 254        | 1016.0     | 2343      
+5         | 37         | 254        | 1692.0     | 2691      
+6         | 37         | 252        | 1644.0     | 1819      
+7         | 176        | 252        | 2152.0     | 1578      
+8         | 96         | 252        | 1780.0     | 2292      
+9         | 37         | 252        | 8034.0     | 4622      
+10        | 37         | 151        | 1118.0     | 25870     
+11        | 136        | 252        | 1899.0     | 2936      
+12        | 40         | 254        | 945.0      | 1904      
+13        | 37         | 166        | 3513.0     | 21687     
+14        | 37         | 252        | 4885.0     | 2129      
+15        | 37         | 252        | 1271.0     | 1660      
+16        | 94         | 250        | 1084.0     | 2121      
+
+Total peak count : 37492.0 pixels
+Total overflow : 79447 pixels
+Embedding Capacity : 112476.0 pixels
+Pure Capacity : 33029.0 pixels
+**************************************************************************
+Lena Image
+a : 5
+b : 8
+mod : 256
+bits per pixel (n) : 2
+block size : 256
+
+Block     | Zero Value | Peak Value | Peak Count | Overflow  
+1         | 1          | 254        | 1207.0     | 129       
+2         | 20         | 254        | 1349.0     | 1160      
+3         | 2          | 254        | 1032.0     | 1000      
+4         | 211        | 254        | 1186.0     | 670       
+
+Total peak count : 4774.0 pixels
+Total overflow : 2969 pixels
+Embedding Capacity : 9548.0 pixels
+Pure Capacity : 6579.0 pixels
+*********************************************************************************
+5.3.02 Image
+a : 71
+b : 37
+mod : 256
+bits per pixel (n) : 3
+block size : 256
+
+Block     | Zero Value | Peak Value | Peak Count | Overflow  
+1         | 102        | 252        | 2482.0     | 686       
+2         | 130        | 252        | 1589.0     | 1440      
+3         | 100        | 252        | 1293.0     | 1609      
+4         | 1          | 252        | 1135.0     | 1751      
+5         | 145        | 252        | 2462.0     | 957       
+6         | 244        | 252        | 1456.0     | 1683      
+7         | 158        | 252        | 1262.0     | 1638      
+8         | 182        | 252        | 985.0      | 2554      
+9         | 188        | 252        | 3420.0     | 438       
+10        | 74         | 252        | 2286.0     | 1234      
+11        | 128        | 252        | 1479.0     | 1710      
+12        | 242        | 252        | 1315.0     | 1859      
+13        | 3          | 252        | 3353.0     | 456       
+14        | 216        | 252        | 2611.0     | 1074      
+15        | 57         | 252        | 1536.0     | 1761      
+16        | 242        | 252        | 1822.0     | 1715      
+
+Total peak count : 30486.0 pixels
+Total overflow : 22701 pixels
+Embedding Capacity : 91458.0 pixels
+Pure Capacity : 68757.0 pixels
+*****************************************************************************

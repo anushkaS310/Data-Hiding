@@ -1,0 +1,56 @@
+lena image
+a : 5
+b : 8
+mod : 256
+bits per pixel (n) : 1
+block size : 512
+
+Block     | Peak Value | Zero Value | Peak Count | Overflow  
+1         | 156        | 255        | 2711.0     | 0         
+
+Total peak count : 2711.0 pixels
+Total overflow : 1 pixels
+Embedding Capacity : 2711.0 pixels
+Pure Capacity : 2710.0 pixels
+in paper : 5460
+diff : 2750
+
+baboon image
+a : 5
+b : 8
+mod : 256
+bits per pixel (n) : 1
+block size : 512
+
+Block     | Peak Value | Zero Value | Peak Count | Overflow  
+1         | 121        | 255        | 2773.0     | 0         
+
+Total peak count : 2773.0 pixels
+Total overflow : 1 pixels
+Embedding Capacity : 2773.0 pixels
+Pure Capacity : 2772.0 pixels
+in paper : 5421
+diff : 2649
+
+boat  image
+a : 5
+b : 8
+mod : 256
+bits per pixel (n) : 1
+block size : 512
+
+Block     | Peak Value | Zero Value | Peak Count | Overflow  
+1         | 148        | 254        | 5796.0     | 2         
+
+Total peak count : 5796.0 pixels
+Total overflow : 3 pixels
+Embedding Capacity : 5796.0 pixels
+Pure Capacity : 5793.0 pixels
+in paper : 7301
+diff : 1508
+
+
+
+lena-2750
+baboon-2649
+boat-1508
